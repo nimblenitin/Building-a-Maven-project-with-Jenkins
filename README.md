@@ -27,8 +27,8 @@ Steps to build a simple Java application with Maven in Jenkins-
 4. Building the Maven project.
 - Click on the project name in the Jenkins dashboard.
 - Click Build Now in the project window. Jenkins will now build your project.
--	Click on the Build History to view the build results.
--	Click on the Console Output to view the build logs.
+- Click on the Build History to view the build results.
+- Click on the Console Output to view the build logs.
 
 ```
 *As Root*
