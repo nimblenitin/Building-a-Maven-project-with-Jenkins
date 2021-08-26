@@ -20,8 +20,8 @@ Steps to build a simple Java application with Maven in Jenkins-
 - Select Maven Project as the build job type for the new item in Jenkins.
 - Click OK.
 - Leave the defaults as they are and scroll down to the Source Code Management section.
--	Select Git.
--	Enter the local path to the app directory in the Repository URL field.
+- Select Git.
+- Enter the local path to the app directory in the Repository URL field.
 - Click Save.
 
 4. Building the Maven project.
